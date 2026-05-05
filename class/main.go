@@ -1,7 +1,7 @@
 package class
 
 // class is a blueprint or template in object oriented programming 
-// used to create objects
+// used to create objects.
 //
 // in go there is no "class" keyword.
 // structs define data and methods define behavior.
